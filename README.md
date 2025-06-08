@@ -1,6 +1,6 @@
-# 📚 Python Básico para Iniciantes  
+# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  Python Básico para Iniciantes  
 
-🌟 **Bem-vindo ao meu repositório de Python Básico!** 🐍✨  
+🌟 **Bem-vindo ao meu repositório de Python Básico!** ✨
 
 Aqui você encontrará projetos simples e didáticos criados para quem está começando na programação com Python. Todos os projetos utilizam apenas conceitos fundamentais, como:  
 
